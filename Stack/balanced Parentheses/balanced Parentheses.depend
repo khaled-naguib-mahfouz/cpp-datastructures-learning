@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708725231 source:c:\users\nagui\desktop\datastructure\stack\balanced parentheses\main.cpp
+	<iostream>
+	<string>
+	<stack>
+
